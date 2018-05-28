@@ -1,0 +1,13 @@
+{
+  "name": "djtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@esri/arcgis-to-geojson-utils": "^1.2.0",
+    "geojson2svg": "^1.2.3"
+  },
+  "devDependencies": {},
+  "author": "Uice Lu",
+  "license": "MIT"
+}
